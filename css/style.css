@@ -446,7 +446,7 @@ body {
   margin-bottom: 9px;
 }
 
-.address {
+.footer__address {
   color: var(--primary-white-color);
   font-weight: 400;
   font-size: 14px;
@@ -456,7 +456,7 @@ body {
   text-decoration: none;
 }
 
-.contacts {
+.footer__contacts {
   color: var(--secondary-text-color);
   font-weight: 400;
   font-size: 14px;
